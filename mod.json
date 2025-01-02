@@ -1,0 +1,28 @@
+{
+	"geode": "4.1.2",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "notpilitoyt.fakemoderator",
+	"tags": [
+		"content",
+		"joke"
+	],
+	"settings": {
+		"modType": {
+			"name": "Moderator Type",
+			"description": "you can choose 1 = Moderator, 2 = Elder Moderator, 3 = Leaderboard Moderator",
+			"type": "int",
+			"default": 1,
+			"min": 1,
+			"max": 3
+		}
+	},
+	"name": "Fake Moderator",
+	"version": "v1.0.0",
+	"developer": "NotPilitoYT",
+	"description": "A cool mod that make you a fake moderator"
+}
